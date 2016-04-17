@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">iLumiExample</string>
+    <string name="unpaired_ilumi">UNPAIRED ILUMI</string>
+    <string name="paired_ilumi">PAIRED ILUMI</string>
+</resources>
